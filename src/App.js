@@ -1,7 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
-import './jsxtext.js';
-import Person from './jsxtext.js';
+// import './jsxtext.js';
+// import Person from './jsxtext.js';
+// import './test-1.js';
+// import './test-2.js';
+// import './test-3.js';
+// import './test-4.js';
+// import './test-5.js';
+//....
+
+// import './test-19.js';
+import Child from './task1';
 
 function App() {
   return (
@@ -18,7 +27,8 @@ function App() {
           Learn React
         </a>
 
-        <Person character = "zohre"/>
+        <Child/>
+
       </header>
       
 
